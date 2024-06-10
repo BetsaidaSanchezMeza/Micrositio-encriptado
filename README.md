@@ -1,4 +1,5 @@
 # Micrositio-encriptado
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +26,7 @@
 </body>
 </html>
 
-Codigo para que el mensaje se pueda encriptar y enviar
+# Codigo para que el mensaje se pueda encriptar y enviar
 <script>
       document.addEventListener('DOMContentLoaded', function() {
     const chatBox = document.getElementById('chat');
@@ -59,7 +60,7 @@ Codigo para que el mensaje se pueda encriptar y enviar
 });  
     </script>
 
-    Codigo para darle estilo al mricrositio
+   # Codigo para darle estilo al mricrositio
     body {
     background-color: #fcfeff; /* Fondo gris claro */
     display: flex;
